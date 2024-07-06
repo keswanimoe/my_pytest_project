@@ -1,3 +1,5 @@
-As part of the 8-week Makers Modern Software Engineering Foundation circiculum.
+This is my initial pytest project, created to help me work through exercises aimed at developing strong test-driven development, object-oriented design, and debugging skills.
 
-This was Module 2: Golden Square Practises where I learnt four key practices: test-driven development, object-oriented programming, debugging, and pair-programming.
+As part of the 8-week Makers Modern Software Engineering Foundation curriculum. In particular, Module Two: Golden Square Practices.
+
+https://github.com/makersacademy/golden-square-in-python
